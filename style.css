@@ -1,0 +1,21 @@
+body {
+	box-sizing: border-box;
+	background-image: url('https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?cs=srgb&dl=architecture-buildings-business-325185.jpg&fm=jpg');
+	background-size: cover;
+}
+button {
+	margin: 30px auto;
+    display: block;
+    background: #d3c64e;
+    font-size: 35px;
+    padding: 20px;
+    outline: none;
+    color: #fff;
+}
+p {
+	margin: 0 auto;
+	padding: 30px;
+	font-weight: bold;
+	font-size: 25px;
+
+}
